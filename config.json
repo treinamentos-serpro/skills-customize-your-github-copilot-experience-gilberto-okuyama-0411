@@ -58,6 +58,20 @@
           "type": "csv"
         }
       ]
+    },
+    {
+      "id": "fastapi-rest-apis",
+      "title": "Building REST APIs with FastAPI",
+      "description": "Construa uma API REST completa com FastAPI: crie endpoints CRUD para gerenciar livros, valide dados com Pydantic e explore a documentação interativa automática.",
+      "path": "assignments/fastapi-rest-apis",
+      "dueDate": "2026-11-11",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
