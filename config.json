@@ -72,6 +72,13 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "json-file-persistence",
+      "title": "JSON File Persistence",
+      "description": "Practice saving and loading task data with JSON files in Python.",
+      "path": "assignments/json-file-persistence",
+      "dueDate": "2026-11-11"
     }
   ]
 }
